@@ -1,4 +1,19 @@
 # Project-N7
+
+Update:
+
+Implemented Normandy printable 3D model. Fitted with space for LED strip.
+
+Implemented Stuart platform with 6 servos.
+
+Implemented circuit board to support handling of the servos.
+
+Implemented control pannel for the Stewart platform.
+
+Implemented 2x beer holder with IR themal sensor. Because beer.
+
+++++++++++ ORIGINAL CONCEPT BELOW ++++++++++++++
+
 Creating a model of the Normandy SR-2 from the Mass Effect using 3D printing, laser cutting and other methods.
 
 The repo contains code and files for the 3D parts, wooden components, images documenting projects and other blue prints.
